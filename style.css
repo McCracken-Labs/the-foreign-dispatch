@@ -66,3 +66,11 @@ footer a{color:var(--accent2);}
 /* leaning colors */
 .n-neutral{--c:#3c7a4b} .n-state{--c:#8a2b2b} .n-progov{--c:#b5772a} .n-funded{--c:#25506b}
 .dot{background:var(--c,#999)}
+
+/* independent-page orientation tags */
+.n-invest{--c:#0f7b6c} .n-left{--c:#b5443a} .n-libert{--c:#c69214}
+.n-cright{--c:#3b5ba5} .n-hetero{--c:#7a5ea8} .n-indie{--c:#3c7a4b}
+.n-exile{--c:#a85b2a} .n-analysis{--c:#5a6270}
+
+.masthead .motto{font-family:system-ui,sans-serif; font-size:12px; letter-spacing:2.5px; text-transform:uppercase; color:var(--accent); font-weight:600; margin-top:9px;}
+.masthead .motto + .tag{margin-top:5px;}

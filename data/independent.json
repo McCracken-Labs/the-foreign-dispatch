@@ -1,0 +1,48 @@
+{
+  "date_iso": "2026-07-14",
+  "date_human": "Tuesday, July 14, 2026",
+  "summary": "Independent journalism on America",
+  "countries": [
+    {
+      "flag": "🔎", "name": "Investigative & nonprofit", "region": "Follow-the-money reporting",
+      "items": [
+        {"outlet": "ProPublica", "lean": "invest", "title": "A web of financial ties between Trump officials and the industries they help regulate", "url": "https://www.propublica.org/article/trump-administration-financial-disclosures-steve-feinberg", "note": "US nonprofit newsroom; disclosure-driven accountability reporting."},
+        {"outlet": "ProPublica", "lean": "invest", "title": "8 things to know about Trump's effort to “take over” the midterm elections", "url": "https://www.propublica.org/article/trump-midterm-elections-takeover-takeaways"}
+      ]
+    },
+    {
+      "flag": "🇺🇸", "name": "Independent — U.S. left", "region": "Adversarial, progressive",
+      "items": [
+        {"outlet": "The Intercept", "lean": "left", "title": "A government of Trump, by Trump, and for Trump", "url": "https://theintercept.com/2026/07/09/tomdispatch-trump-america-250/"},
+        {"outlet": "The Intercept", "lean": "left", "title": "Another Trump ceasefire with Iran crumbles", "url": "https://theintercept.com/2026/07/08/trump-us-iran-ceasefire/"},
+        {"outlet": "openDemocracy (UK)", "lean": "left", "title": "Revealed: $280m ‘dark money’ spent by US Christian Right groups globally", "url": "https://www.opendemocracy.net/en/trump-us-christian-spending-global-revealed/"}
+      ]
+    },
+    {
+      "flag": "🗽", "name": "Independent — right & heterodox", "region": "Libertarian, conservative, contrarian",
+      "items": [
+        {"outlet": "Reason", "lean": "libert", "date": "July 14", "title": "Trump notifies Congress of renewed military action against Iran", "url": "https://reason.com/2026/07/14/meet-the-new-war/", "note": "Libertarian; skeptical of executive war powers and spending."},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "Trump waves the white flag", "url": "https://thedispatch.com/article/iran-deal-trump-surrender/", "note": "Conservative but Trump-critical."},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "title": "How the Constitution failed America", "url": "https://unherd.com/2026/06/how-the-constitution-failed-america/"}
+      ]
+    },
+    {
+      "flag": "🕊️", "name": "Reporting in exile", "region": "Diaspora newsrooms covering home — and its US dealings — from abroad",
+      "items": [
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "title": "‘Maybe it’s time we started hiring American generals?’ Russia’s pro-war bloggers on the US operation in Venezuela", "url": "https://meduza.io/en/feature/2026/01/05/maybe-it-s-time-we-started-hiring-american-generals", "note": "Banned in Russia; publishes from Latvia."},
+        {"outlet": "IranWire (Iran, in exile)", "lean": "exile", "title": "US releases official details of memorandum of understanding with Iran", "url": "https://iranwire.com/en/news/153853-us-releases-official-details-of-memorandum-of-understanding-with-iran/", "note": "Founded by exiled Iranian journalists."},
+        {"outlet": "Hong Kong Free Press", "lean": "exile", "title": "China’s Alibaba to sue after US Pentagon blacklists it as ‘military-linked’ firm", "url": "https://hongkongfp.com/2026/06/24/chinas-alibaba-to-sue-after-us-pentagon-blacklists-it-as-military-linked-firm/", "note": "Independent English-language HK newsroom."},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "Trump signs defense bill providing $400 million a year in military aid to Ukraine through 2027", "url": "https://kyivindependent.com/trump-signs-defense-spending-bill-into-law-providing-400-million-annually-in-military-assistance-to-ukraine-through-2027/", "note": "Reader-funded, founded after its predecessor was shut down."}
+      ]
+    },
+    {
+      "flag": "🌍", "name": "International independent & analysis", "region": "Reader-funded, outside the US",
+      "items": [
+        {"outlet": "Middle East Eye", "lean": "indie", "title": "US–Iran peace deal: six things we learned from the Islamabad memorandum", "url": "https://www.middleeasteye.net/explainers/us-iran-peace-deal-memorandum-six-things-learned"},
+        {"outlet": "The Wire (India)", "lean": "indie", "title": "The US has again put Latin America's sovereignty under threat", "url": "https://thewire.in/world/united-states-donald-trump-latin-america-venezuela"},
+        {"outlet": "The Conversation", "lean": "analysis", "title": "The end of ‘Pax Americana’ and the start of a ‘post-American’ era", "url": "https://theconversation.com/the-end-of-pax-americana-and-start-of-a-post-american-era-doesnt-necessarily-mean-the-world-will-be-less-safe-274354"},
+        {"outlet": "Coda Story", "lean": "indie", "title": "The tool Donald Trump might use to crush dissent", "url": "https://codastory.com/authoritarian-tech/the-tool-donald-trump-might-use-to-crush-dissent"}
+      ]
+    }
+  ]
+}
