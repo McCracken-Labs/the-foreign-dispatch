@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive · The Foreign Dispatch</title>
+<title>Archive · A View on America</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="topbar"><div class="inner">
-  <a class="brand" href="./">The Foreign Dispatch</a>
+  <a class="brand" href="./">A View on America</a>
   <nav>
     <a href="./">World Press</a>
     <a href="independent.html">Independent</a>
@@ -33,7 +33,7 @@
   </ul>
 
   <footer>
-    <b>The Foreign Dispatch</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
+    <b>A View on America</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
     <span class="support-line">Free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Support via PayPal</a>.</span><br>
     A new edition is archived here automatically every morning.
   </footer>
@@ -41,7 +41,7 @@
 <script>
 function shareSite(){
   var url = new URL('./', location.href).href;
-  var data = {title:"The Foreign Dispatch", text:"What the world's press is saying about America", url:url};
+  var data = {title:"A View on America", text:"What the world's press is saying about America", url:url};
   if(navigator.share){ navigator.share(data).catch(function(){}); }
   else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash); }
   else { window.prompt("Copy this link:", url); }

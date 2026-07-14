@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Foreign Dispatch static site builder.
+"""A View on America static site builder.
 
   data/edition.json      -> index.html + edition-<iso>.html   (World Press edition)
   data/independent.json  -> independent.html                  (Independent journalism page)
@@ -15,7 +15,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 SHARE_JS = """<script>
 function shareSite(){
   var url = new URL('./', location.href).href;
-  var data = {title:"The Foreign Dispatch", text:"What the world's press is saying about America", url:url};
+  var data = {title:"A View on America", text:"What the world's press is saying about America", url:url};
   if(navigator.share){ navigator.share(data).catch(function(){}); }
   else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash); }
   else { window.prompt("Copy this link:", url); }
@@ -44,7 +44,7 @@ def esc(s):
 def topbar(active):
     def cls(name): return ' class="active"' if name == active else ''
     return f'''<div class="topbar"><div class="inner">
-  <a class="brand" href="./">The Foreign Dispatch</a>
+  <a class="brand" href="./">A View on America</a>
   <nav>
     <a href="./"{cls("today")}>World Press</a>
     <a href="independent.html"{cls("independent")}>Independent</a>
@@ -101,14 +101,14 @@ IND_LEGEND = '''    <div class="legend">
 
 SUPPORTBOX = """
   <div class="supportbox">
-    <span>Enjoying <b>The Foreign Dispatch</b>? It's free and ad-free.</span>
+    <span>Enjoying <b>A View on America</b>? It's free and ad-free.</span>
     <a class="btn" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support via PayPal</a>
   </div>
 """
 
 PAGES = {
     "today": {
-        "title": "The Foreign Dispatch · What the world's press is saying about America",
+        "title": "A View on America · What the world's press is saying about America",
         "meta": "A daily digest of how newspapers outside the United States are covering it. Headlines translated to English, with links to the originals.",
         "tagline": "What the world's press is saying about America, in their own words",
         "dateline_right": lambda n: f"Foreign-press digest · {n} countries today",
@@ -119,7 +119,7 @@ PAGES = {
         "legend": GOV_LEGEND,
     },
     "independent": {
-        "title": "The Foreign Dispatch · Independent journalism on America",
+        "title": "A View on America · Independent journalism on America",
         "meta": "Independent, nonprofit, reader-funded and investigative journalism on the United States, grouped by editorial orientation so you can read across viewpoints.",
         "tagline": "Independent and investigative journalism on America. Read across the spectrum.",
         "dateline_right": lambda n: f"Independent journalism · {n} viewpoints",
@@ -153,7 +153,7 @@ def render_page(data, kind):
 
 <div class="wrap">
   <header class="masthead">
-    <h1><a href="./">The Foreign Dispatch</a></h1>
+    <h1><a href="./">A View on America</a></h1>
     <div class="motto">Outside the box. Outside the border.</div>
     <div class="tag">{cfg["tagline"]}</div>
   </header>
@@ -171,9 +171,9 @@ def render_page(data, kind):
 {sections}
 
   <footer>
-    <b>The Foreign Dispatch</b> · {esc(data["date_human"])} · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
-    <span class="support-line">The Foreign Dispatch is free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Chip in via PayPal</a> to help keep it that way.</span><br>
-    Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Dispatch. See <a href="about.html">About</a> for method and sources.
+    <b>A View on America</b> · {esc(data["date_human"])} · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
+    <span class="support-line">A View on America is free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Chip in via PayPal</a> to help keep it that way.</span><br>
+    Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 A View on America. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
 {SHARE_JS}
@@ -191,7 +191,7 @@ def render_archive(archive):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive · The Foreign Dispatch</title>
+<title>Archive · A View on America</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -208,7 +208,7 @@ def render_archive(archive):
   </ul>
 
   <footer>
-    <b>The Foreign Dispatch</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
+    <b>A View on America</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
     <span class="support-line">Free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Support via PayPal</a>.</span><br>
     A new edition is archived here automatically every morning.
   </footer>
