@@ -1,0 +1,70 @@
+{
+  "date_iso": "2026-07-14",
+  "date_human": "Tuesday, July 14, 2026",
+  "summary": "9 countries · Iran strikes & Hormuz blockade dominate world coverage · US 250th anniversary",
+  "countries": [
+    {
+      "flag": "🇫🇷", "name": "France", "region": "Western Europe",
+      "items": [
+        {"outlet": "France 24", "lean": "funded", "date": "July 13", "title": "US strikes Iran for a third night as Trump says a deal is still \"possible\"", "url": "https://www.france24.com/en/middle-east/20260713-middle-east-live-us-strikes-iran-for-third-night-as-trump-says-deal-still-possible", "note": "Live coverage frames Washington as escalating militarily even while claiming to keep diplomacy open."},
+        {"outlet": "France 24", "lean": "funded", "date": "July 13", "title": "Trump to deliver national address reopening 2020 election-fraud claims", "url": "https://www.france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate", "note": "French coverage foregrounds that the fraud claim is \"false\" — a framing US partisan outlets often soften."}
+      ]
+    },
+    {
+      "flag": "🇯🇵", "name": "Japan", "region": "East Asia",
+      "items": [
+        {"outlet": "The Japan Times", "lean": "neutral", "date": "July 14", "title": "Trump reinstates US blockade of Iranian shipping in Strait of Hormuz, orders new strikes", "url": "https://www.japantimes.co.jp/news/2026/07/14/world/politics/us-blockade-iran-shipping-strait-of-hormuz/", "note": "Asia-Pacific outlets watch the Hormuz chokepoint closely for its impact on regional oil supply."},
+        {"outlet": "The Japan Times", "lean": "neutral", "date": "July 5", "title": "US turns 250 with Trump center stage", "url": "https://www.japantimes.co.jp/news/2026/07/05/world/politics/us-250-trump-center-stage/"}
+      ]
+    },
+    {
+      "flag": "🇪🇺", "name": "Europe", "region": "Pan-European",
+      "items": [
+        {"outlet": "Euronews", "lean": "neutral", "date": "July 14", "title": "US–Iran conflict widens after deadly tanker attack in Strait of Hormuz", "url": "https://www.euronews.com/2026/07/14/us-iran-conflict-widens-after-deadly-tanker-attack-in-strait-of-hormuz"},
+        {"outlet": "Euronews", "lean": "neutral", "date": "July 7", "title": "\"Ratify Mercosur or risk losing South America to China,\" Uruguay warns EU", "url": "https://www.euronews.com/my-europe/2026/07/07/ratify-mercosur-or-risk-losing-south-america-to-china-uruguay-warns-eu", "note": "Seen from Europe, US retreat from Latin America reads as an opening for Chinese influence."}
+      ]
+    },
+    {
+      "flag": "🇶🇦", "name": "Qatar", "region": "Middle East",
+      "items": [
+        {"outlet": "Al Jazeera", "lean": "funded", "date": "July 8", "title": "US conducts new wave of strikes on Iran as ceasefire falters", "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2"},
+        {"outlet": "Al Jazeera", "lean": "funded", "date": "July 12", "title": "United States at 250: Seven tests of the American experiment", "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/12/united-states-at-250-seven-tests-of-the-american-experiment"}
+      ]
+    },
+    {
+      "flag": "🇹🇷", "name": "Türkiye", "region": "Middle East / Eurasia",
+      "items": [
+        {"outlet": "Daily Sabah", "lean": "progov", "title": "With the Iran war, more Americans ask if the \"Israeli tail is wagging the US dog\"", "url": "https://www.dailysabah.com/world/americas/with-iran-war-more-americans-ask-if-israeli-tail-wagging-us-dog", "note": "A framing common in Turkish pro-government media: US foreign policy as captive to Israeli interests."},
+        {"outlet": "TRT World", "lean": "progov", "title": "Venezuela to buy only US-made products with oil-deal revenue, Trump says", "url": "https://www.trtworld.com/article/809a2b2515a2"}
+      ]
+    },
+    {
+      "flag": "🇷🇺", "name": "Russia", "region": "Eurasia",
+      "items": [
+        {"outlet": "RT", "lean": "state", "title": "CENTCOM announces a third straight night of US strikes on Iranian targets", "url": "https://russian.rt.com/world/news/1656471-ssha-iran-udary", "orig": "Original (ru): «В СЕНТКОМ объявили о третьей подряд ночи ударов по объектам Ирана»"},
+        {"outlet": "RT", "lean": "state", "title": "Analyst: the US \"won't be able to fight Iran for long\"", "url": "https://russian.rt.com/world/news/1656443-ekspert-ssha-iran", "orig": "Original (ru): «Политолог Шаповалов: США не смогут долго воевать с Ираном»", "note": "State media pairs war reporting with commentary predicting American overreach and decline."}
+      ]
+    },
+    {
+      "flag": "🇨🇳", "name": "China & Hong Kong", "region": "East Asia",
+      "items": [
+        {"outlet": "South China Morning Post (Hong Kong)", "lean": "neutral", "title": "Trump says he won't sign bipartisan housing bill — \"a big yawn\"", "url": "https://www.scmp.com/news/world/united-states-canada/article/3360179/trump-says-he-will-not-sign-bipartisan-housing-bill-big-yawn"},
+        {"outlet": "Global Times", "lean": "state", "title": "How the US \"backstabs\" its allies under \"America First\" logic", "url": "https://www.globaltimes.cn/page/202503/1330914.shtml", "note": "Beijing's state tabloid consistently frames US alliances as unreliable and self-serving."}
+      ]
+    },
+    {
+      "flag": "🇲🇽", "name": "Mexico", "region": "Latin America",
+      "items": [
+        {"outlet": "El Universal", "lean": "neutral", "title": "Trump investigates alleged Iranian-drone storage in Cuba, warns the US will act if confirmed", "url": "https://www.eluniversal.com.mx/mundo/trump-investiga-presunto-almacenamiento-de-drones-iranies-en-cuba-advierte-que-eu-actuara-si-lo-confirma/", "orig": "Original (es): «Trump investiga presunto almacenamiento de drones iraníes en Cuba…»"},
+        {"outlet": "El Universal", "lean": "neutral", "title": "US declassifies 40 new UFO files, releasing 19 sighting recordings", "url": "https://www.eluniversal.com.mx/mundo/eu-desclasifica-40-nuevos-archivos-sobre-ovnis-revelan-19-videos-de-avistamientos/", "orig": "Original (es): «EU desclasifica 40 nuevos archivos sobre OVNIS…»"}
+      ]
+    },
+    {
+      "flag": "🌍", "name": "Africa", "region": "Nigeria",
+      "items": [
+        {"outlet": "The Punch (Nigeria)", "lean": "neutral", "title": "US to slash visa-processing embassies in Africa, retaining just 20 hubs", "url": "https://punchng.com/full-list-us-to-slash-visa-processing-embassies-in-africa-retain-20-hubs/", "note": "African papers cover the practical fallout of US policy — here, sharply reduced visa access."},
+        {"outlet": "The Punch (Nigeria)", "lean": "neutral", "title": "US seeks deeper AGOA trade penetration in Africa", "url": "https://punchng.com/us-seeks-agoa-penetration-in-africa/"}
+      ]
+    }
+  ]
+}
