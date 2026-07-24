@@ -88,3 +88,6 @@ footer a{color:var(--accent2);}
 .masthead h1 a{color:inherit; text-decoration:none;}
 .topbar nav .sharebtn{font-family:system-ui,sans-serif; font-size:12px; letter-spacing:1px; text-transform:uppercase; color:var(--accent); background:none; border:none; cursor:pointer; padding:0; font-weight:600;}
 .topbar nav .sharebtn:hover{border-bottom:2px solid var(--accent); padding-bottom:2px;}
+
+.supportbox .btn-bmc{line-height:0;}
+.supportbox .btn-bmc img{height:40px;display:block;}

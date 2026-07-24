@@ -50,7 +50,7 @@ def topbar(active):
     <a href="independent.html"{cls("independent")}>Independent</a>
     <a href="archive.html"{cls("archive")}>Archive</a>
     <a href="about.html"{cls("about")}>About</a>
-    <a class="support" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support</a>
+    <a class="support" href="https://www.buymeacoffee.com/mccrackenlabs" target="_blank" rel="noopener">♥ Support</a>
     <button class="sharebtn" type="button" onclick="shareSite()">Share</button>
   </nav>
 </div></div>'''
@@ -102,7 +102,7 @@ IND_LEGEND = '''    <div class="legend">
 SUPPORTBOX = """
   <div class="supportbox">
     <span>Enjoying <b>A View on America</b>? It's free and ad-free.</span>
-    <a class="btn" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support via PayPal</a>
+    <a class="btn-bmc" href="https://www.buymeacoffee.com/mccrackenlabs" target="_blank" rel="noopener"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Mercedes..or coffee&emoji=&slug=mccrackenlabs&button_colour=242323&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" /></a>
   </div>
 """
 
@@ -172,7 +172,7 @@ def render_page(data, kind):
 
   <footer>
     <b>A View on America</b> · {esc(data["date_human"])} · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
-    <span class="support-line">A View on America is free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Chip in via PayPal</a> to help keep it that way.</span><br>
+    <span class="support-line">A View on America is free and ad-free. <a href="https://www.buymeacoffee.com/mccrackenlabs" target="_blank" rel="noopener">Buy me a coffee</a> to help keep it that way.</span><br>
     Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 A View on America. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
@@ -209,7 +209,7 @@ def render_archive(archive):
 
   <footer>
     <b>A View on America</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
-    <span class="support-line">Free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Support via PayPal</a>.</span><br>
+    <span class="support-line">Free and ad-free. <a href="https://www.buymeacoffee.com/mccrackenlabs" target="_blank" rel="noopener">Buy me a coffee</a>.</span><br>
     A new edition is archived here automatically every morning.
   </footer>
 </div>
