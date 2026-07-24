@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-23",
-  "date_human": "Thursday, July 23, 2026",
-  "summary": "11 countries. The US war with Iran leads coverage almost everywhere as US Central Command wraps an eleventh night of strikes and Trump threatens to destroy an Iranian bridge or power plant for every attack on shipping in the Strait of Hormuz. Tariffs run a close second, with fresh US duties on Brazil taking effect and a 30 percent rate hanging over Mexico and the EU.",
+  "date_iso": "2026-07-24",
+  "date_human": "Friday, July 24, 2026",
+  "summary": "11 countries. A fresh wave of US tariffs on 60 trading partners takes effect today, replacing the expiring 10 percent global levy and hitting China, the EU, India and much of Africa with new duties of 10 to 12.5 percent under a forced labor rationale. The US war with Iran runs alongside it, as US Central Command presses further strikes, Congress passes a symbolic rebuke, and Trump ties a Saudi nuclear deal to recognition of Israel.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,18 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-22",
-          "title": "US tariffs on Brazil take effect as Trump readies fresh flurry",
-          "url": "https://www.france24.com/en/live-news/20260722-us-tariffs-on-brazil-take-effect-as-trump-readies-fresh-flurry",
-          "note": "Framed around a widening trade fight that now reaches Latin America."
+          "date": "2026-07-24",
+          "title": "US imposes new tariffs on 60 partners as Trump rebuilds trade agenda",
+          "url": "https://www.france24.com/en/live-news/20260724-us-imposes-new-tariffs-on-60-partners-as-trump-rebuilds-trade-agenda",
+          "note": "Leads on the duties taking effect and the protests they drew from Beijing and others."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-19",
-          "title": "Iran fighting 'full-scale war' with US, Yemen's Houthis announce Saudi naval blockade",
-          "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed"
+          "date": "2026-07-23",
+          "title": "US House passes symbolic Iran war rebuke to Trump",
+          "url": "https://www.france24.com/en/live-news/20260723-us-house-passes-symbolic-iran-war-rebuke-to-trump",
+          "note": "Notes the resolution carries little legal force and Trump is expected to ignore it."
         }
       ]
     },
@@ -33,23 +34,30 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-20",
-          "title": "Trump is silent so far on Iran strategy as U.S. death toll hits 17",
-          "url": "https://www.japantimes.co.jp/news/2026/07/20/world/politics/trump-iran-strategy-us-death/"
+          "date": "2026-07-21",
+          "title": "Trump vows Iran will pay for deaths as mediators push truce",
+          "url": "https://www.japantimes.co.jp/news/2026/07/21/world/trump-iran-mediators-truce/"
+        },
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "2026-07-21",
+          "title": "U.S. attacks deepen hardship, not dissent, in Iran's restive south",
+          "url": "https://www.japantimes.co.jp/news/2026/07/21/world/us-attacks-dissent-iran-south/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Gulf",
+      "region": "Middle East",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "2026-07-14",
-          "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-          "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation"
+          "title": "Iran war updates: US launches 'additional round of strikes'",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz"
         },
         {
           "outlet": "Al Jazeera",
@@ -68,17 +76,18 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump threatens to destroy Iran's bridges and power plants over attacks on ships",
-          "orig": "Трамп пригрозил уничтожать мосты и электростанции Ирана за атаки на суда",
-          "url": "https://russian.rt.com/world/news/1660170-tramp-iran-ataki",
-          "note": "State media relays Trump's threats at length while casting Washington as the aggressor."
+          "date": "2026-07-22",
+          "title": "Trump tries to lower oil prices with talk of negotiations, Iran says it is not asking for them",
+          "orig": "Трамп пытается снизить цены на нефть словами о переговорах, Иран о них не просит",
+          "url": "https://russian.rt.com/world/news/1660046-iran-tramp-peregovory-neft",
+          "note": "Frames the war as a self-inflicted US energy problem."
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump says the US is destroying Iran at an unprecedented pace",
-          "orig": "Трамп заявил, что США разрушают Иран беспрецедентными темпами",
-          "url": "https://russian.rt.com/world/news/1659846-tramp-ssha-iran"
+          "title": "Trump threatens Iran with a manifold response for the death of every US serviceman",
+          "orig": "Трамп пригрозил Ирану многократным ответом за гибель каждого военного США",
+          "url": "https://russian.rt.com/world/news/1659416-ssha-iran-tramp"
         }
       ]
     },
@@ -90,81 +99,101 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "South Korea in 'Catch-22 situation' over Trump's call for warships to secure Hormuz",
-          "url": "https://www.scmp.com/week-asia/politics/article/3346756/south-korea-catch-22-situation-over-trumps-call-warships-secure-hormuz"
+          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Trump lauds Beijing's role in Iran truce, but clouds ceasefire with 50% tariff threat",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3349416/trump-warns-50-cent-tariffs-arms-suppliers-iran"
+          "title": "Trump's manufacturing push meets reality as costs rise and investment stalls",
+          "url": "https://www.scmp.com/news/us/politics/article/3361607/trumps-manufacturing-push-meets-reality-costs-rise-and-investment-stalls"
+        }
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "European Union",
+      "region": "Europe",
+      "items": [
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-24",
+          "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
+          "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims",
+          "note": "Reports the EU lands at the lower 10 percent rate after committing to forced labor import bans."
         }
       ]
     },
     {
       "flag": "🇹🇷",
       "name": "Türkiye",
-      "region": "Middle East and Europe",
+      "region": "Middle East",
       "items": [
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "NATO summit in Ankara kicks into high gear as US-Iran truce shaken",
-          "url": "https://www.dailysabah.com/world/nato-summit-in-ankara-kicks-into-high-gear-as-us-iran-truce-shaken/news"
+          "title": "Trade partners voice dismay, anger over US forced labor tariffs",
+          "url": "https://www.dailysabah.com/business/economy/trade-partners-voice-dismay-anger-over-us-forced-labor-tariffs"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Trump says US ready to lift CAATSA sanctions on Türkiye",
-          "url": "https://www.dailysabah.com/politics/trump-says-us-ready-to-lift-caatsa-sanctions-on-turkiye/news",
-          "note": "Coverage leans warm on the Erdogan-Trump relationship."
+          "title": "Trump threatens to backtrack on UK trade deal over Iran war",
+          "url": "https://www.dailysabah.com/business/economy/trump-threatens-to-backtrack-on-uk-trade-deal-over-iran-war"
         }
       ]
     },
     {
-      "flag": "🇲🇽",
-      "name": "Mexico",
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Africa",
+      "items": [
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-07-24",
+          "title": "US hits SA with 12.5% tariffs in sweeping announcement affecting 60 countries",
+          "url": "https://www.news24.com/business/economy/us-hits-sa-with-125-tariffs-in-sweeping-announcement-affecting-60-countries-20260724-0369",
+          "note": "Lists exemptions for gold, platinum and some foods, with a central bank warning on jobs."
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Kenya eyes new bilateral trade deal with US, Agoa extension",
+          "url": "https://nation.africa/kenya/business/kenya-eyes-new-bilateral-trade-deal-with-us-agoa-extension--5288680"
+        },
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "How Trump's tariffs threaten AGOA renewal and affect US-Africa trade",
+          "url": "https://nation.africa/kenya/news/africa/how-trump-s-tariffs-affect-us-africa-trade-agoa-4989894"
+        }
+      ]
+    },
+    {
+      "flag": "🇦🇷",
+      "name": "Argentina",
       "region": "Latin America",
       "items": [
         {
-          "outlet": "El Universal",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Trump announces 30% tariff on Mexico and the EU, sends letter to Sheinbaum",
-          "orig": "Trump anuncia arancel de 30% a México y a la UE; envía carta a Sheinbaum",
-          "url": "https://www.eluniversal.com.mx/mundo/trump-anuncia-arancel-de-30-a-mexico/"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Nigeria suffers nearly N1tn export loss after Trump tariff",
-          "url": "https://punchng.com/nigeria-suffers-nearly-n1tn-export-loss-after-trump-tariff/",
-          "note": "The tariff story lands as a direct hit to Nigerian exporters."
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Trump threatens to bomb Iranian bridge, power plant if Tehran fires at ship in Strait of Hormuz",
-          "url": "https://www.koreaherald.com/article/10817284"
+          "title": "Bessent hosts Caputo as Argentina-US rescue talks begin",
+          "url": "https://www.batimes.com.ar/news/economy/bessent-hosts-caputo-in-washington-as-argentina-us-rescue-talks-begin.phtml"
         },
         {
-          "outlet": "The Korea Herald",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Seoul says no US request to deploy warship to Strait of Hormuz",
-          "url": "https://www.koreaherald.com/article/10816586"
+          "title": "As Milei's aura fades, Argentina starts to look for a third way",
+          "url": "https://www.batimes.com.ar/news/argentina/as-mileis-aura-fades-argentina-starts-to-look-for-a-third-way.phtml"
         }
       ]
     },
@@ -176,24 +205,14 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "US Asks Ukraine for Help Countering Iranian Drones as Trump Warns Zelensky to 'Get on the Ball'",
-          "url": "https://www.kyivpost.com/post/71335",
-          "note": "The Iran war reaches into Kyiv as Washington seeks drone-defense know-how."
-        }
-      ]
-    },
-    {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "European Union",
-      "items": [
+          "title": "US Senate Places Ukraine Support Act on Calendar, Opening Door to Floor Action",
+          "url": "https://www.kyivpost.com/post/80790"
+        },
         {
-          "outlet": "Euronews",
+          "outlet": "Kyiv Post",
           "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "Four things to know one year after the Turnberry agreement",
-          "url": "https://www.euronews.com/my-europe/2026/07/21/four-things-to-know-one-year-after-the-turnberry-agreement",
-          "note": "A look back at the US-EU deal that pushed tariffs on European goods as high as 15 percent."
+          "title": "Trump Sees Putin as 'Weak Link,' Backs Ukraine on Patriot Missiles and Refinery Strikes",
+          "url": "https://www.kyivpost.com/post/80037"
         }
       ]
     }

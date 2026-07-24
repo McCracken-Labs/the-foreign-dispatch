@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-23",
-  "date_human": "Thursday, July 23, 2026",
+  "date_iso": "2026-07-24",
+  "date_human": "Friday, July 24, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,9 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "The U.S. Built a Blueprint to Avoid Civilian War Casualties. Trump Officials Scrapped It.",
-          "url": "https://www.propublica.org/article/trump-defense-department-iran-hegseth-civilian-casualties",
-          "note": "Reports that the Pentagon gutted its civilian-harm office before the Iran war began."
+          "title": "Congress Has Demanded Answers to ICE Detaining Americans. The Administration Has Responded With Silence.",
+          "url": "https://www.propublica.org/article/trump-ice-immigration-detained-americans-congress-questions-unanswered"
+        },
+        {
+          "outlet": "ProPublica",
+          "lean": "invest",
+          "title": "Unfettered and Unaccountable: How Trump Is Building a Violent, Shadowy Federal Police Force",
+          "url": "https://www.propublica.org/article/trump-dhs-ice-secret-police-civil-rights-unaccountable"
         }
       ]
     },
@@ -25,15 +30,15 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-20",
-          "title": "U.S. Official: Iran Attacks Injured \"Far More\" Troops Than Pentagon Admits",
-          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
+          "date": "2026-07-24",
+          "title": "Trump's National Killer Police Force",
+          "url": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/"
         },
         {
-          "outlet": "The Intercept",
+          "outlet": "Jacobin",
           "lean": "left",
-          "title": "Trump's Iran Attack Was Illegal, Former U.S. Military Officials Allege",
-          "url": "https://theintercept.com/2026/03/01/trump-iran-attack-war-powers-resolution-united-nations-charter-legal/"
+          "title": "Trump Is Robbing You to Pay for His Dumb War",
+          "url": "https://jacobin.com/2026/04/trump-iran-budget-austerity-imperialism"
         }
       ]
     },
@@ -45,21 +50,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "title": "Trump's Iran War Continues to Violate the Constitution, and Now Also the War Powers Act of 1973",
-          "url": "https://reason.com/volokh/2026/05/01/trumps-iran-war-continues-to-violate-the-constitution-and-now-also-the-war-powers-act-of-1973/"
+          "date": "2026-07-23",
+          "title": "Trump Imposes Massively Harmful and Illegal Section 301 Tariffs",
+          "url": "https://reason.com/volokh/2026/07/23/trump-imposes-massively-harmful-and-illegal-section-301-tariffs/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "A War Half-Won",
-          "url": "https://thedispatch.com/article/trump-iran-war-military-tactics-strategy/",
-          "note": "A conservative case that battlefield wins have not added up to a strategy."
+          "title": "The Iran War Is What Trumpism Looks Like",
+          "url": "https://thedispatch.com/newsletter/gfile/iran-war-donald-trump-maga/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "How the 'American Way of War' failed in Iran",
-          "url": "https://unherd.com/2026/05/how-the-american-way-of-war-failed-in-iran/"
+          "title": "Iran war is eroding American power in Asia",
+          "url": "https://unherd.com/newsroom/iran-war-is-eroding-american-power-in-asia/?edition=us"
         }
       ]
     },
@@ -71,21 +76,21 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "title": "'World War III is already underway': Zelensky advisor Mykhailo Podolyak on what the new Middle East war means for Ukraine",
-          "url": "https://meduza.io/en/feature/2026/03/10/world-war-iii-is-already-underway-zelensky-advisor-mykhailo-podolyak-on-what-the-new-middle-east-war-means-for-ukraine"
+          "date": "2026-07-22",
+          "title": "Kremlin no longer willing to return any occupied Ukrainian territory as part of potential peace deal, Bloomberg reports",
+          "url": "https://meduza.io/en/news/2026/07/22/kremlin-no-longer-willing-to-return-any-occupied-ukrainian-territory-as-part-of-potential-peace-deal-bloomberg-reports"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "date": "2026-07-22",
-          "title": "US Concludes 11th Wave of Strikes Against Military Sites Across Iran",
-          "url": "https://iranwire.com/en/news/155294-us-concludes-11th-wave-of-strikes-against-military-sites-across-iran/"
+          "title": "U.S. Completes 12th Wave of Strikes Against Iran",
+          "url": "https://iranwire.com/en/news/155343-us-completes-12th-wave-of-strikes-against-iran/"
         },
         {
-          "outlet": "The Kyiv Independent (Ukraine)",
+          "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "War in Iran has used up half of US Patriot and THAAD missile stockpiles",
-          "url": "https://kyivindependent.com/war-in-iran-has-used-up-half-of-us-patriot-and-thaad-missile-stockpiles/"
+          "title": "Trump Reposts Images of Executed Protesters in Iran",
+          "url": "https://iranwire.com/en/news/155278-trump-reposts-images-of-executed-protesters-in-iran/"
         }
       ]
     },
@@ -103,8 +108,14 @@
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "Cloud Over India as Trump Announces 25% Tariff On Iran Foreign Trade Partners",
-          "url": "https://thewire.in/diplomacy/india-as-trump-announces-25-tariff-over-iran-trade"
+          "title": "US Opens Process for Trump Tariff Refunds, But Indian Exporters Unlikely to See the Benefits",
+          "url": "https://thewire.in/trade/us-opens-process-for-trump-tariff-refunds-but-indian-exporters-unlikely-to-see-the-benefits"
+        },
+        {
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "Under US law, Trump faces an impending deadline to end the Iran war. What happens if he ignores it?",
+          "url": "https://theconversation.com/under-us-law-trump-faces-an-impending-deadline-to-end-the-iran-war-what-happens-if-he-ignores-it-281728"
         }
       ]
     }
